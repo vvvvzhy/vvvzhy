@@ -162,6 +162,20 @@
     "sites": [
 
 
+    {"key": "巧技二","name": "洪宇🚥爬虫","jar":"./hy.jar","type": 3,"api": "csp_qiao2","playerType": 2,"ext": "7lj763gg402i79425739i7jghj118797l4hj840gi18633331l4708g2h7145403549g44l8ii56i187681hkjj3hhgh1ih3l32j250lk1k786lj20j468hk3hli4l46gig4i3g7g2722328j0136h01i7g5183k22k7gg3i72hk81gl8k9839kl7i0707"},
+
+	{ "key": "zz", "name": "洪宇🚥官解①|4K弹幕", "type": 3, "api": "csp_AppZzun", "ext": "http://154.219.113.13:12121/json/app.txt", "jar": "http://47.120.41.246:8025/vip/jar/banhu.php" },
+    { "key": "01", "name": "洪宇🚥免扫网盘①|4K", "type": 3, "api": "csp_HBT4", "ext": "YUhSMGNEb3ZMekUxTkM0eU1Ua3VNVEV6TGpFek9qVTROall2ZEdWemRDNXdhSEEvYzJsMFpUMXNZV0pwSXlNamJHRmlhUT09", "jar": "http://47.120.41.246:8025/vip/jar/banhu.php" },
+    { "key": "02", "name": "洪宇🚥免扫网盘②|4K", "type": 3, "api": "csp_HBT4", "ext": "YUhSMGNEb3ZMekUxTkM0eU1Ua3VNVEV6TGpFek9qUTROall2ZEdWemRDNXdhSEEvYzJsMFpUMXRhV2hrY2lNakkyMXBhR1J5", "jar": "http://47.120.41.246:8025/vip/jar/banhu.php" },
+    { "key": "03", "name": "洪宇🚥免扫网盘③|4K", "type": 3, "api": "csp_HBT4", "ext": "YUhSMGNEb3ZMekUxTkM0eU1Ua3VNVEV6TGpFek9qUTROall2ZEdWemRDNXdhSEEvYzJsMFpUMWxjbmhwWVc4akl5TmxjbmhwWVc4PQ==", "jar": "http://47.120.41.246:8025/vip/jar/banhu.php" },
+    { "key": "04", "name": "洪宇🚥免扫网盘④|4K", "type": 3, "api": "csp_HBT4", "ext": "YUhSMGNEb3ZMekUxTkM0eU1Ua3VNVEV6TGpFek9qUTROall2ZEdWemRDNXdhSEEvYzJsMFpUMXZkV2RsSXlNamIzVm5aUT09", "jar": "http://47.120.41.246:8025/vip/jar/banhu.php" },
+
+
+
+
+
+
+
         {"jar":"https://daili.korice.eu.org/https://raw.githubusercontent.com/jjjzhy/vvvzhy/refs/heads/yu/0924/1993.jar",
         "key":"YU_Market",
         "name":"🚥洪宇🚥┃网络应用商店",
@@ -2643,4 +2657,5 @@
     "ads": [
         "static-mozai.4gtv.tv"
     ]
+
 }
