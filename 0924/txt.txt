@@ -1,0 +1,19 @@
+[{
+  "name": "码云yqk3(m3u)",
+    "url": "https://gitee.com/yu_shan_fei/vvvzhy/raw/zby/yu/yqk3.m3u&&&https://daili.korice.eu.org/https://raw.githubusercontent.com/qq859/cj/refs/heads/main/%E5%9B%BE%E7%89%87/HYTV.png?inline=false"
+  },  
+      {  "name": "yqk3(m3u)",
+  "url": "http://127.0.0.1:9978/file/Download/yu/yqk3.m3u&&&https://daili.korice.eu.org/https://raw.githubusercontent.com/qq859/cj/refs/heads/main/%E5%9B%BE%E7%89%87/HYTV.png?inline=false"
+    },
+    {
+  "name": "zby(txt)",
+  "url": "https://daili.korice.eu.org/https://raw.githubusercontent.com/l19270149853/zm/refs/heads/main/zby.txt&&&https://daili.korice.eu.org/https://raw.githubusercontent.com/qq859/cj/refs/heads/main/%E5%9B%BE%E7%89%87/HYTV.png?inline=false"
+    },
+     {
+  "name": "mut8(m3u)",
+  "url": "https://daili.korice.eu.org/https://raw.githubusercontent.com/110COM/repo/refs/heads/main/a/mut8.m3u&&&https://daili.korice.eu.org/https://raw.githubusercontent.com/qq859/cj/refs/heads/main/%E5%9B%BE%E7%89%87/HYTV.png?inline=false"
+    }
+    
+    ]
+    
+  
