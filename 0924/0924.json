@@ -1,14 +1,7 @@
 [
 
 
-{"name":"zip本地包丨增量包",
-"list":[
 
-{"name":"直播增量包","url":"https://cors.isteed.cc/https://raw.githubusercontent.com/vvvvzhy/vvvzhy/refs/heads/yu/zip/live.zip","version":"vvvvzhy/vvvzhy","icon":"https://daili.korice.eu.org/https://raw.githubusercontent.com/qq859/cj/refs/heads/main/%E5%9B%BE%E7%89%87/HYTV.png","copy":"http://127.0.0.1:9978/file/Download/yu/api.json"}
-
-
-]
-},
 
 
 
@@ -68,6 +61,23 @@
 },
 
 
+
+{"name":"zip本地包丨增量包",
+"list":[
+
+{"name":"直播增量包","url":"https://cors.isteed.cc/https://raw.githubusercontent.com/vvvvzhy/vvvzhy/refs/heads/yu/zip/live.zip","version":"vvvvzhy/vvvzhy","icon":"https://daili.korice.eu.org/https://raw.githubusercontent.com/qq859/cj/refs/heads/main/%E5%9B%BE%E7%89%87/HYTV.png","copy":"http://127.0.0.1:9978/file/Download/yu/api.json"}
+
+
+]
+},
+
+
+
+
+
+
+
+  
 
 
 {"name":"洪宇直播地址",
