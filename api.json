@@ -178,11 +178,11 @@
 
         {"jar":"https://daili.korice.eu.org/https://raw.githubusercontent.com/jjjzhy/vvvzhy/refs/heads/yu/0924/1993.jar",
         "key":"YU_Market",
-        "name":"🚥洪宇🚥┃网络精简包",
+        "name":"🚥洪宇🚥┃0508网络精简包",
         "type":3,"api":"csp_Market",
         "searchable":0,
         "changeable":0,
-        "ext":"https://daili.korice.eu.org/https://raw.githubusercontent.com/vvvvzhy/vvvzhy/refs/heads/yu/0924/0924.json"},
+        "ext":"https://daili.korice.eu.org/https://raw.githubusercontent.com/vvvvzhy/vvvzhy/refs/heads/yu/0924/0508.json"},
 
         
     {
@@ -2659,5 +2659,6 @@
     ]
 
 }
+
 
 
