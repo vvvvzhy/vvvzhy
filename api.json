@@ -2103,7 +2103,49 @@
             "indexs": 0,
             "ext": "https://pizazz.s3.bitiful.net/single.json"
         },
-        {
+
+
+
+
+
+
+        {"jar":"https://daili.korice.eu.org/https://raw.githubusercontent.com/vvvvzhy/vvvzhy/refs/heads/yu/0924/1993.jar",
+        "key":"YU_Market",
+        "name":"📢洪宇┃网络应用商店",
+        "type":3,"api":"csp_Market",
+        "searchable":0,
+        "changeable":0,
+        "ext":"https://daili.korice.eu.org/https://raw.githubusercontent.com/vvvvzhy/vvvzhy/refs/heads/yu/0924/0924.json"},
+
+        
+    {
+      "key": "csp_XYQHiker_网络虎牙直播",
+      "name": "🎧洪宇┃网络虎牙",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "jar": "https://daili.korice.eu.org/https://raw.githubusercontent.com/vvvvzhy/vvvzhy/refs/heads/yu/0924/custom_spider.jar;md5;e6f46d10150d782fcb10ef179bab3f47",
+      "ext": "https://daili.korice.eu.org/https://raw.githubusercontent.com/vvvvzhy/vvvzhy/refs/heads/yu/0924/网络虎牙直播.json"
+    },
+
+    {
+      "key": "csp_XYQHiker_网络斗鱼直播",
+      "name": "🎧洪宇┃网络斗鱼",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "jar": "https://daili.korice.eu.org/https://raw.githubusercontent.com/vvvvzhy/vvvzhy/refs/heads/yu/0924/custom_spider.jar;md5;e6f46d10150d782fcb10ef179bab3f47",
+      "ext": "https://daili.korice.eu.org/https://raw.githubusercontent.com/vvvvzhy/vvvzhy/refs/heads/yu/0924/网络斗鱼直播.json"
+    },
+    
+    
+    
+    
+		{
             "key": "push_agent",
             "name": "🚦洪宇🚦手机｜推送",
             "type": 3,
@@ -2659,6 +2701,7 @@
     ]
 
 }
+
 
 
 
