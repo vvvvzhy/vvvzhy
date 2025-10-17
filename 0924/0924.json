@@ -70,8 +70,18 @@
 
 
 
-
-
+            {
+                "name": "基本老三样增量荐片",
+                "url": "https://daili.korice.eu.org/https://raw.githubusercontent.com/jjjzhy/vvvzhy/refs/heads/yu/api.json",
+            
+                "version": "老三样增量荐片","icon":"https://daili.korice.eu.org/https://raw.githubusercontent.com/qq859/cj/refs/heads/main/%E5%9B%BE%E7%89%87/HYTV.png","copy":"https://daili.korice.eu.org/https://raw.githubusercontent.com/jjjzhy/vvvzhy/refs/heads/yu/api.json"
+            },
+            {
+                "name": "老三样荐片",
+                "url": "https://daili.korice.eu.org/https://raw.githubusercontent.com/vvvvse/yu/refs/heads/yu/api.json",
+            
+                "version": "vvvvse/yu","icon":"https://daili.korice.eu.org/https://raw.githubusercontent.com/qq859/cj/refs/heads/main/%E5%9B%BE%E7%89%87/HYTV.png","copy":"https://daili.korice.eu.org/https://raw.githubusercontent.com/vvvvse/yu/refs/heads/yu/api.json"
+            },
             {
                 "name": "基本测试接口",
                 "url": "https://daili.korice.eu.org/https://raw.githubusercontent.com/vvvvzhy/xjj/refs/heads/hy/api.txt",
