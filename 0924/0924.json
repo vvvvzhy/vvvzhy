@@ -72,7 +72,12 @@
 
 
 
-
+            {
+                "name": "基本测试接口",
+                "url": "https://daili.korice.eu.org/https://raw.githubusercontent.com/vvvvzhy/xjj/refs/heads/hy/api.txt",
+            
+                "version": "老三样网络","icon":"https://daili.korice.eu.org/https://raw.githubusercontent.com/qq859/cj/refs/heads/main/%E5%9B%BE%E7%89%87/HYTV.png","copy":"https://daili.korice.eu.org/https://raw.githubusercontent.com/vvvvzhy/xjj/refs/heads/hy/api.txt"
+            },
             {
                 "name": "采集之王正片接口",
                 "url": "https://daili.korice.eu.org/https://raw.githubusercontent.com/vvvvzhy/vvvzhy/refs/heads/yu/api.json",
