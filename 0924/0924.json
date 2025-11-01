@@ -85,7 +85,12 @@
 
 {"name":"网络接口",
 "list":[
-
+            {
+                "name": "潇洒",
+                "url": "https://daili.korice.eu.org/https://raw.githubusercontent.com/vvvvse/yu/refs/heads/yu/sa/sa.zip",
+                "icon": "https://daili.korice.eu.org/https://raw.githubusercontent.com/vvvvse/yu/refs/heads/yu/sa/HYTV.png","copy":"https://daili.korice.eu.org/https://raw.githubusercontent.com/vvvvse/yu/refs/heads/yu/sa/api.json",
+                "version": "vvvvse/yu"
+            },
 {"name":"🎖new/new2接口","url":"https://cors.isteed.cc/https://raw.githubusercontent.com/llllse/llllse/refs/heads/new/new2.json","version":"llllse/25/10/19","icon":"https://gitee.com/yu_shan_fei/vvvzhy/raw/zby/yu/llllse.jpg","copy":"https://cors.isteed.cc/https://raw.githubusercontent.com/llllse/llllse/refs/heads/new/new2.json"},
 {"name":"new最新短剧接口","url":"https://cors.isteed.cc/https://raw.githubusercontent.com/llllse/llllse/refs/heads/new/api.json","version":"llllse/llllse","icon":"https://daili.korice.eu.org/https://raw.githubusercontent.com/qq859/cj/refs/heads/main/%E5%9B%BE%E7%89%87/HYTV.png","copy":"https://cors.isteed.cc/https://raw.githubusercontent.com/llllse/llllse/refs/heads/new/api.json"},
             {
