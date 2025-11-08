@@ -184,30 +184,32 @@
         "changeable":0,
         "ext":"https://daili.korice.eu.org/https://raw.githubusercontent.com/vvvvzhy/vvvzhy/refs/heads/yu/0924/0508.json"},
 
+  
         
     {
-      "key": "csp_XYQHiker_网络虎牙直播",
-      "name": "🚥洪宇🚥┃网络虎牙",
+      "key": "mayun_XYQHiker_虎牙直播",
+      "name": "码云洪宇┃网络虎牙",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "jar": "https://daili.korice.eu.org/https://raw.githubusercontent.com/vvvvzhy/vvvzhy/refs/heads/yu/0924/custom_spider.jar;md5;e6f46d10150d782fcb10ef179bab3f47",
-      "ext": "https://daili.korice.eu.org/https://raw.githubusercontent.com/vvvvzhy/vvvzhy/refs/heads/yu/0924/网络虎牙直播.json"
+      "jar": "https://gitee.com/yu_shan_fei/vvvzhy/raw/yu/yu/custom_spider.jar;md5;e6f46d10150d782fcb10ef179bab3f47",
+      "ext": "https://gitee.com/yu_shan_fei/vvvzhy/raw/yu/yu/hy.json"
     },
 
     {
-      "key": "csp_XYQHiker_网络斗鱼直播",
-      "name": "🚥洪宇🚥┃网络斗鱼",
+      "key": "mayun_XYQHiker_斗鱼直播",
+      "name": "码云洪宇┃网络斗鱼",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "jar": "https://daili.korice.eu.org/https://raw.githubusercontent.com/vvvvzhy/vvvzhy/refs/heads/yu/0924/custom_spider.jar;md5;e6f46d10150d782fcb10ef179bab3f47",
-      "ext": "https://daili.korice.eu.org/https://raw.githubusercontent.com/vvvvzhy/vvvzhy/refs/heads/yu/0924/网络斗鱼直播.json"
-    },
+      "jar": "https://gitee.com/yu_shan_fei/vvvzhy/raw/yu/yu/custom_spider.jar;md5;e6f46d10150d782fcb10ef179bab3f47",
+      "ext": "https://gitee.com/yu_shan_fei/vvvzhy/raw/yu/yu/dy.json"
+    }
+        
 
 
 
@@ -2701,6 +2703,7 @@
     ]
 
 }
+
 
 
 
