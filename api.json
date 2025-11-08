@@ -207,7 +207,7 @@
       "filterable": 0,
       "jar": "https://gitee.com/yu_shan_fei/vvvzhy/raw/yu/yu/custom_spider.jar;md5;e6f46d10150d782fcb10ef179bab3f47",
       "ext": "https://gitee.com/yu_shan_fei/vvvzhy/raw/yu/yu/dy.json"
-    }
+    },
         
 
 
@@ -2702,6 +2702,7 @@
     ]
 
 }
+
 
 
 
