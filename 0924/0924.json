@@ -102,11 +102,21 @@
 
 
 
+
+
+
             {
                 "name": "🎖码云九件套",
+                "url": "https://gitee.com/yu_shan_fei/vvvzhy/raw/yu/yu/my.json",
+                "icon": "https://gitee.com/yu_shan_fei/vvvzhy/raw/zby/yu/HYTV.png","copy":"https://gitee.com/yu_shan_fei/vvvzhy/raw/yu/yu/my.json",
+                "version": "码云九件套"
+            },
+
+            {
+                "name": "🎖码云九件套(隐藏)",
                 "url": "https://gitee.com/yu_shan_fei/vvvzhy/raw/yu/yu/bd.json",
                 "icon": "https://gitee.com/yu_shan_fei/vvvzhy/raw/zby/yu/HYTV.png","copy":"https://gitee.com/yu_shan_fei/vvvzhy/raw/yu/yu/bd.json",
-                "version": "码云九件套"
+                "version": "码云九件套(隐藏)"
             },
             
             {
