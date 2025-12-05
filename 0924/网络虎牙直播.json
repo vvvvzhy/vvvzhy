@@ -13,8 +13,8 @@
   "首页片单链接": "a&&href",
   "首页片单图片": "a&&data-original",
   "首页片单副标题": "a&&desc",
-  "首页片单链接加前缀": "http://81.70.10.196:35455/huya/",
-  "首页片单链接加后缀": "#洪宇独享2$https://lunbo.v1.mk/huya/'#测试$http://zy.qxq6.com/live/huya.php?token=DqC6ZKZY&id='input'",
+  "首页片单链接加前缀": "https://lunbo.v1.mk/huya/",
+  "首页片单链接加后缀": "#洪宇独享2$http://81.70.10.196:35455/huya/'input'#测试$http://zy.qxq6.com/live/huya.php?token=DqC6ZKZY&id='input'",
 
   "分类起始页码": "1",
   "分类链接": "https://live.cdn.huya.com/liveHttpUI/getLiveList?iGid={cateId}&iPageNo={catePg}&iPageSize=120",
@@ -30,8 +30,8 @@
   "分类片单链接": "lProfileRoom",
   "分类片单图片": "sScreenshot",
   "分类片单副标题": "sNick",
-  "分类片单链接加前缀": "http://81.70.10.196:35455/huya/",
-  "分类片单链接加后缀": "#洪宇独享2$https://lunbo.v1.mk/huya/'#测试$http://zy.qxq6.com/live/huya.php?token=DqC6ZKZY&id='input'",
+  "分类片单链接加前缀": "https://lunbo.v1.mk/huya/",
+  "分类片单链接加后缀": "#洪宇独享2$http://81.70.10.196:35455/huya/'input'#测试$http://zy.qxq6.com/live/huya.php?token=DqC6ZKZY&id='input'",
 
   "搜索请求头参数": "User-Agent$手机",
   "搜索链接": "https://search.cdn.huya.com/?m=Search&do=getSearchContent&plt=m&q={wd}&uid=0&app=11&v=4&typ=-5&start=0@&rows=40",
@@ -43,8 +43,8 @@
   "搜索片单标题": "game_nick",
   "搜索片单链接": "room_id",
   "搜索片单副标题": "gameName",
-  "搜索片单链接加前缀": "http://81.70.10.196:35455/huya/",
-  "搜索片单链接加后缀": "#洪宇独享2$https://lunbo.v1.mk/huya/'#测试$http://zy.qxq6.com/live/huya.php?token=DqC6ZKZY&id='input'",
+  "搜索片单链接加前缀": "https://lunbo.v1.mk/huya/",
+  "搜索片单链接加后缀": "#洪宇独享2$http://81.70.10.196:35455/huya/'input'#测试$http://zy.qxq6.com/live/huya.php?token=DqC6ZKZY&id='input'",
 
   "链接是否直接播放": "1",
   "直接播放链接加前缀": "",
