@@ -1,19 +1,70 @@
 [{
+
+
+
+
+
+
+
+  "name": "码云yqk4(m3u)",
+    "url": "https://gitee.com/yu_shan_fei/vvvzhy/raw/yu/yu/yqk4.m3u&&&https://gitee.com/yu_shan_fei/vvvzhy/raw/yu/yu/HYTV.png"
+  },  
+    {
   "name": "码云yqk3(m3u)",
-    "url": "https://gitee.com/yu_shan_fei/vvvzhy/raw/zby/yu/yqk3.m3u&&&https://daili.korice.eu.org/https://raw.githubusercontent.com/qq859/cj/refs/heads/main/%E5%9B%BE%E7%89%87/HYTV.png?inline=false"
+    "url": "https://gitee.com/yu_shan_fei/vvvzhy/raw/yu/yu/yqk3.m3u&&&https://gitee.com/yu_shan_fei/vvvzhy/raw/yu/yu/HYTV.png"
   },  
       {  "name": "yqk3(m3u)",
-  "url": "http://127.0.0.1:9978/file/Download/yu/yqk3.m3u&&&https://daili.korice.eu.org/https://raw.githubusercontent.com/qq859/cj/refs/heads/main/%E5%9B%BE%E7%89%87/HYTV.png?inline=false"
+  "url": "http://127.0.0.1:9978/file/Download/yqk3.m3u&&&https://gitee.com/yu_shan_fei/vvvzhy/raw/yu/yu/HYTV.png"
     },
     {
-  "name": "zby(txt)",
-  "url": "https://daili.korice.eu.org/https://raw.githubusercontent.com/l19270149853/zm/refs/heads/main/zby.txt&&&https://daili.korice.eu.org/https://raw.githubusercontent.com/qq859/cj/refs/heads/main/%E5%9B%BE%E7%89%87/HYTV.png?inline=false"
+  "name": "加密冰红茶(txt)",
+  "url": "https://fy.188766.xyz/?ip=192.168.1.2&mima=499144377&&&https://gitee.com/yu_shan_fei/vvvzhy/raw/yu/yu/HYTV.png"
     },
      {
   "name": "mut8(m3u)",
-  "url": "https://daili.korice.eu.org/https://raw.githubusercontent.com/110COM/repo/refs/heads/main/a/mut8.m3u&&&https://daili.korice.eu.org/https://raw.githubusercontent.com/qq859/cj/refs/heads/main/%E5%9B%BE%E7%89%87/HYTV.png?inline=false"
-    }
+  "url": "https://gh-proxy.com/https://raw.githubusercontent.com/110COM/repo/refs/heads/main/a/mut8.m3u&&&https://gitee.com/yu_shan_fei/vvvzhy/raw/yu/yu/HYTV.png"
+    },
+     {
+  "name": "电影(m3u)",
+  "url": "https://gh-proxy.com/https://raw.githubusercontent.com/vvvzhy/vvvzhy/refs/heads/main/se2.m3u&&&https://gitee.com/yu_shan_fei/vvvzhy/raw/yu/yu/HYTV.png"
+    },        
+    
+     {
+  "name": "成人(m3u)",
+  "url": "https://gh-proxy.com/https://raw.githubusercontent.com/vvvzhy/vvvzhy/refs/heads/main/cr.m3u&&&https://gitee.com/yu_shan_fei/vvvzhy/raw/yu/yu/HYTV.png"
+    },    
+    
+     {
+  "name": "成人2(m3u)",
+  "url": "https://gh-proxy.com/https://raw.githubusercontent.com/vvvzhy/vvvzhy/refs/heads/main/cr2.m3u&&&https://gitee.com/yu_shan_fei/vvvzhy/raw/yu/yu/HYTV.png"
+    },        
+    
+     {
+  "name": "成人3(m3u)",
+  "url": "https://gh-proxy.com/https://raw.githubusercontent.com/vvvzhy/vvvzhy/refs/heads/main/cr3.m3u&&&https://gitee.com/yu_shan_fei/vvvzhy/raw/yu/yu/HYTV.png"
+    },        
+     {
+  "name": "成人4(m3u)",
+  "url": "https://gh-proxy.com/https://raw.githubusercontent.com/vvvzhy/vvvzhy/refs/heads/main/cr4.m3u&&&https://gitee.com/yu_shan_fei/vvvzhy/raw/yu/yu/HYTV.png"
+    },        
+      {
+  "name": "成人5(m3u)",
+  "url": "https://gh-proxy.com/https://raw.githubusercontent.com/vvvzhy/vvvzhy/refs/heads/main/cr5.m3u&&&https://gitee.com/yu_shan_fei/vvvzhy/raw/yu/yu/HYTV.png"
+    }      
     
     ]
     
-  
+   
+   
+   
+   
+   
+
+   
+   
+   
+   
+   
+   
+   
+   
